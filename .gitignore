@@ -1,0 +1,27 @@
+# Checkpoints creados automáticamente por Jupyter
+**/.ipynb_checkpoints/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Variables privadas
+.env
+
+# Archivos temporales
+*.tmp
+*.log
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración local de editores
+.vscode/
+.idea/
